@@ -1,4 +1,10 @@
-<img align="right" src="https://mujoco.readthedocs.io/en/3.2.6/_images/humanoid.gif" width="350" />
+<!-- <img align="right" src="https://mujoco.readthedocs.io/en/3.2.6/_images/humanoid.gif" width="350" /> -->
+<img
+  align="right"
+  src="https://mujoco.readthedocs.io/en/3.2.6/_images/humanoid.gif"
+  width="280"
+  style="opacity:0.3; filter: grayscale(100%);"
+/>
 
 <h2>Hey 👋, I'm Kshitij</h2>
 <p>Builder with research depth. 3+ years architecting production systems. 4× Major Hackathon Winner. First-author researcher (AAMAS 2026).</p>
