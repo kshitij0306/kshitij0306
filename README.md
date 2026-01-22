@@ -25,7 +25,7 @@
 <h2>🚀 Projects</h2>
 <ul>
 <li>
-<strong>🥇 Winner OwnGoal: Agentic Sports Director</strong><br/>
+<strong>🥉 OwnGoal: Agentic Sports Director</strong><br/>
 <em> 3rd Prize @ UC Santa Barbara Hackathon</em><br/>
 Agentic broadcast director using multi-view video embeddings to route camera angles in real-time.<br/>
 <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" /> <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" /> <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" /> <img src="https://img.shields.io/badge/RAG-FF4B4B?style=for-the-badge" alt="RAG" /> <img src="https://img.shields.io/badge/FFmpeg-007808?style=for-the-badge&logo=ffmpeg&logoColor=white" alt="FFmpeg" /><br/>
@@ -34,7 +34,7 @@ Agentic broadcast director using multi-view video embeddings to route camera ang
 </li>
 <br/>
 <li>
-<strong>🥇 Winner GreenMate AR</strong><br/>
+<strong>🥇 GreenMate AR</strong><br/>
 <em> 1st Prize @ Columbia University Hackathon</em><br/>
 AR interface translating plant sensor data into 'emotion' states. Integrated ESP32 IoT backend for real-time visualization.<br/>
 <img src="https://img.shields.io/badge/Snap%20Spectacles-21262d?style=for-the-badge" alt="Snap Spectacles" /> <img src="https://img.shields.io/badge/Lens%20Studio-21262d?style=for-the-badge" alt="Lens Studio" /> <img src="https://img.shields.io/badge/IoT%20(ESP32)-21262d?style=for-the-badge" alt="IoT (ESP32)" /><br/>
@@ -43,7 +43,7 @@ AR interface translating plant sensor data into 'emotion' states. Integrated ESP
 </li>
 <br/>
 <li>
-<strong>🥇 Winner Lottery Choco Pie</strong><br/>
+<strong>🥈 Lottery Choco Pie</strong><br/>
 <em> 2nd Prize @ UMass Amherst Hackathon</em><br/>
 Lottery Choco Pie is a Keno-inspired casual game that blends probability-driven gameplay with Candy-Crush-style visuals, designed for fast, intuitive play. Built end-to-end with a focus on responsive UI and smooth cross-device performance, it balances randomness and strategy to drive replayability.<br/>
 <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" /> <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" /> <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" /> <img src="https://img.shields.io/badge/Vercel-21262d?style=for-the-badge" alt="Vercel" /><br/>
@@ -52,7 +52,7 @@ Lottery Choco Pie is a Keno-inspired casual game that blends probability-driven 
 </li>
 <br/>
 <li>
-<strong>🥇 Winner DuoLink 🔗: Proactive Network Management with Digital Twin Visualization</strong><br/>
+<strong>🥈 DuoLink 🔗: Proactive Network Management with Digital Twin Visualization</strong><br/>
 <em> 2nd Prize @ Cisco Catalyst HackAIthon</em><br/>
 DuoLink is a proactive network management system that uses a Digital Twin to predict, visualize, and prevent network failures in real time. It combines ML-based failure prediction with a reinforcement learning agent to dynamically reroute traffic and optimize network resources before downtime occurs.<br/>
 <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" /> <img src="https://img.shields.io/badge/XGBoost-21262d?style=for-the-badge" alt="XGBoost" /> <img src="https://img.shields.io/badge/PPO%20(Reinforcement%20Learning)-21262d?style=for-the-badge" alt="PPO (Reinforcement Learning)" /> <img src="https://img.shields.io/badge/Tensorflow-21262d?style=for-the-badge" alt="Tensorflow" /> <img src="https://img.shields.io/badge/Dash-21262d?style=for-the-badge" alt="Dash" /> <img src="https://img.shields.io/badge/Plotly-21262d?style=for-the-badge" alt="Plotly" /> <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" /><br/>
