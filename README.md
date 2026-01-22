@@ -1,6 +1,6 @@
 <img align="right" src="https://mujoco.readthedocs.io/en/3.2.6/_images/humanoid.gif" width="350" />
 
-<h2>Hey 👋, I'm Kshitij S.</h2>
+<h2>Hey 👋, I'm Kshitij</h2>
 <p>Builder with research depth. 3+ years architecting production systems. 4× Major Hackathon Winner. First-author researcher (AAMAS 2026).</p>
 
 <p><a href="https://github.com/kshitij0306"><img src="https://img.shields.io/badge/-GitHub-21262d?style=flat-square&logo=GitHub&logoColor=white" alt="GitHub Badge"></a> <a href="https://linkedin.com/in/kshitijkshitij"><img src="https://img.shields.io/badge/-LinkedIn-21262d?style=flat-square&logo=LinkedIn&logoColor=white" alt="LinkedIn Badge"></a> <a href="mailto:kshitijkumar_srivastava@uml.edu"><img src="https://img.shields.io/badge/-Email-21262d?style=flat-square&logo=Email&logoColor=white" alt="Email Badge"></a></p>
